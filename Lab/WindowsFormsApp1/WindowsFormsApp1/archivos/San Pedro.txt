@@ -1,0 +1,8 @@
+-75.555897,6.461702
+<<<<<<< HEAD
+=======
+PARQUE PRINCIPAL CHANCOS,-76.212218
+-75.557505,6.459302
+-76.228889,3.998611
+corregimiento presidente,-76.229167
+>>>>>>> 39aa952fdecddb4f5641e65eb62008cb32cae527
